@@ -16,3 +16,12 @@ h1{
 li{
     font-size: 2rem;
 }
+
+section div{
+margin:0 auto;
+width:95%;
+}
+
+section div img{
+    width:100%;
+}
